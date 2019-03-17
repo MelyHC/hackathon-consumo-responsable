@@ -94,14 +94,28 @@
 
 
 .colIniciativas{
-    background-color: aquamarine;
+    position: relative;
+    z-index:1;
+    overflow:hidden;
     height: 50vh;
     display: flex;
-    align-items: center;
-    justify-content: center
+    justify-content: center;
+    align-items: center
+}
+.colIniciativas:after{
+    z-index:-1;
+    position:absolute;
+    left:0;
+    top:0;
+    content: url('./image/ciudades.png');
+    opacity:0.8;
+    /* background-color:  rgba(95, 241, 108, 0.781) */
+   
 }
 .cardIni{
-    padding: 5% 5% 5% 5%
+    padding: 5% 5% 5% 5%;
+    border: 2px solid rgb(57, 168, 57);
+    margin: 10px 10px 10px 10px
 }
 .btn{
     width: 200px;
