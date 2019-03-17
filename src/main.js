@@ -10,9 +10,10 @@ const printDepartments = (arr) => {
 
 const printBusiness = (arr) => {
   let template = '';
-  arr.sort().forEach(({name, description, link}) => {
+  arr.sort().forEach(({name, image,description, link}) => {
     template += `
     <tr>
+      <td><img alt="${name}"src="${image}" />
       <td>${name}</td>
       <td>${description}</td> 
       <td><a href="${link}" target="_blank">${link}</a></td>

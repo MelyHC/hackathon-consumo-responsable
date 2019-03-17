@@ -5,7 +5,8 @@
 		"description": "Somos una empresa que brinda servicio de supervisión ambiental de monitoreos y estudios medio ambientales para la seguridad personal y la seguridad del medio ambiente ",
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
-		"link": "https://algaex.pe/"
+		"link": "https://algaex.pe/",
+		"image": "../image/logo-algaex.png"
 	},
 	{
 		" ": "4",
@@ -13,7 +14,8 @@
 		"description": "Empresa social que hace productos nutritivos y naturales a base de frutas andinas",
 		"item": "Alimentación",
 		"department": "Lima",
-		"link": "https://www.kunan.com.pe/ally-mishky/"
+		"link": "https://www.kunan.com.pe/ally-mishky/",
+		"image": "../image/logo-allymishky.jpeg"
 	},
 	{
 		" ": "10",
@@ -21,7 +23,8 @@
 		"description": "Nuestra sinergia empresarial nos ha logrado poner en el camino con empresas comprometidas con el desarrollo sostenible y encontrarnos con el entorno las costumbres y el planeta en armonia y paisajismo",
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
-		"link": "https://arquitekturas.com/"
+		"link": "https://arquitekturas.com/",
+		"image": "../image/logo-arquitekturas.png"
 	},
 	{
 		" ": "26",
@@ -29,7 +32,8 @@
 		"description": "Organización dedicada al cultivo de cacao aromáticos, nativos mediante una práctica responsable, un enfoque empresarial cooperativo.",
 		"item": "Eficiencia de recursos",
 		"department": "Madre de Dios",
-		"link": "https://cooperativaagrobosque.blogspot.com/"
+		"link": "https://cooperativaagrobosque.blogspot.com/",
+		"image": "../image/logo-agrobosque.jpeg"
 	},
 	{
 		" ": "27",
@@ -37,7 +41,8 @@
 		"description": "Cooperativa de multiproductos innovadores; ofertando servicios y productos con valor agregado provenientes del bosque de ecosistemas acuáticos y del paisaje.",
 		"item": "Alimentación",
 		"department": "San Martín",
-		"link": "http://ampaperu.info/tag/cooperamaz/"
+		"link": "http://ampaperu.info/tag/cooperamaz/",
+		"image": "../image/logo-ampa.png"
 	},
 	{
 		" ": "29",
@@ -45,7 +50,8 @@
 		"description": "Empresa que proporciona superalimentos orgánicos y promueve cultivos agrícolas sostenibles y rentables en comunidades que ayuden a mejorar la calidad de vida de los agricultores.",
 		"item": "Alimentación",
 		"department": "Lima",
-		"link": "https://cruzcampoperu.com/"
+		"link": "https://cruzcampoperu.com/",
+		"image": "../image/logo-cruzCampo.png"
 	},
 	{
 		" ": "32",
@@ -53,7 +59,8 @@
 		"description": "Innovador economizador para baño dirigido a inodoros convencionales y doble botón el cual ahorrarhasta 4 litros en cada (flush) lo que te permite ahorrar  tanto agua como dinero.",
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
-		"link": "http://inecore.com/"
+		"link": "http://inecore.com/",
+		"image": "../image/logo-dragon.png"
 	},
 	{
 		" ": "129",
@@ -61,7 +68,8 @@
 		"description": "El econegocio de artesanías de totora es una iniciativa que aprovecha de manera sostenible los totorales y pone en valor la totora. Ayuda a proteger las especies del lago Titicaca y contribuye a la generación de ingresos para mujeres indígenas.",
 		"item": "Moda sostenible",
 		"department": "Puno",
-		"link": "https://www.facebook.com/totoratiticaca/"
+		"link": "https://www.facebook.com/totoratiticaca/",
+		"image": "../image/logo-ecoArtesanías.png"
 	},
 	{
 		" ": "34",
@@ -69,7 +77,8 @@
 		"description": " Trabajar por el desarrollo de los pueblos y la justicia social en armonía con el medio ambiente hacer de nuestras ciudades lugares mejores para vivir buscando ser líderes en el desarrollo con protección de la ecología.",
 		"item": "Eficiencia de recursos",
 		"department": "San Martín",
-		"link": "https://www.facebook.com/EcocarbonBioverde/"
+		"link": "https://www.facebook.com/EcocarbonBioverde/",
+		"image": "../image/logo-ecocarbon.jpeg"
 	},
 	{
 		" ": "38",
@@ -77,7 +86,8 @@
 		"description": "Hacemos chocolates con cacaos nativos amazónicos que comercializamos justa y directamente con comunidades Awajún en Amazonas. ",
 		"item": "Alimentación",
 		"department": "Lima",
-		"link": "https://www.facebook.com/elementochocolates/"
+		"link": "https://www.facebook.com/elementochocolates/",
+		"image": "../image/logo-elemento.jpeg"
 	},
 	{
 		" ": "45",
@@ -85,7 +95,8 @@
 		"description": "Desarrollamos una línea de calzado accesorios y biocueros con productos de la biodiversidad Peruana como la shiringa colorantes naturales y materiales sostenibles como algodón orgánico.",
 		"item": "Moda sostenible",
 		"department": "Lima",
-		"link": "https://evea-ecofashion.com/es/"
+		"link": "https://evea-ecofashion.com/es/",
+		"image": "../image/logo-ecofashion.png"
 	},
 	{
 		" ": "46",
@@ -93,7 +104,8 @@
 		"description": "Empresa que comercializa y distribuye tecnologías limpias venta de paneles solares y accesorios cocinas y hornos mejorados (portatiles moviles y fijas)",
 		"item": "Eficiencia de recursos",
 		"department": "San Martín",
-		"link": "https://www.facebook.com/farocorp.sac/"
+		"link": "https://www.facebook.com/farocorp.sac/",
+		"image": "../image/logo-faro.png"
 	},
 	{
 		" ": "49",
@@ -101,7 +113,8 @@
 		"description": "Producción y comercialización de frutos amazónicos de la mano de las comunidades nativas Awajún del Alto Mayo en San Martín",
 		"item": "Alimentación",
 		"department": "San Martín",
-		"link": "http://frutiawajun.com.pe/"
+		"link": "http://frutiawajun.com.pe/",
+		"image": "../image/logo-frutiawajun.jpeg"
 	},
 	{
 		" ": "52",
@@ -109,7 +122,8 @@
 		"description": "Es una empresa multimarca, que diseña, desarrolla y comercializa marcas cosméticas de vanguardia, con productos innovadores de alta tecnología, calidad, seguridad y efectividad.",
 		"item": "Cosmética/Bienestar",
 		"department": "Lima",
-		"link": "http://www.gbcorp.net/#1"
+		"link": "http://www.gbcorp.net/#1",
+		"image": "../image/logo-bcCorp.png"
 	},
 	{
 		" ": "54",
@@ -117,7 +131,8 @@
 		"description": "Generadora de ideas verdes fomentando el desarrollo empresarial sostenible innovación investigación en ciencia y tecnología",
 		"item": "Eficiencia de recursos",
 		"department": "Cajamarca",
-		"link": "https://www.facebook.com/GreenIdeasCorp/"
+		"link": "https://www.facebook.com/GreenIdeasCorp/",
+		"image": "../image/logo-grandes-ideas.jpeg"
 	},
 	{
 		" ": "58",
@@ -125,7 +140,8 @@
 		"description": "Es una plataforma digital que permite a las empresas y familias integrarse a un programa de reciclaje a domicilio. Brindamos capacitación en gestión de RRSS reciclaje y recuperación de materiales en comunidades",
 		"item": "Eficiencia de recursos",
 		"department": "Ica",
-		"link": "https://ikreo.pe/index.php"
+		"link": "https://ikreo.pe/index.php",
+		"image": "../image/logo-Ikreo.png"
 	},
 	{
 		" ": "64",
@@ -133,7 +149,8 @@
 		"description": "Janko es una empresa de base tecnológica que fabrica bicicletas sostenibles de bambú peruano personalizables en diseño color de uniones resistencia grabado y acabado de caña.",
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
-		"link": "https://www.facebook.com/JankoEcobicis/"
+		"link": "https://www.facebook.com/JankoEcobicis/",
+		"image": "../image/logo-bici.jpeg"
 	},
 	{
 		" ": "65",
@@ -141,7 +158,8 @@
 		"description": "Chocolates oscuros con cacao nativo del VRAEM",
 		"item": "Alimentación",
 		"department": "Cusco",
-		"link": "https://www.facebook.com/TheChocolateFarmer/"
+		"link": "https://www.facebook.com/TheChocolateFarmer/",
+		"image": "../image/logo-chocolateFarmer.png"
 	},
 	{
 		" ": "77",
@@ -149,7 +167,8 @@
 		"description": "",
 		"item": "Cosmética/bienestar",
 		"department": "Lima",
-		"link": "https://www.misharastrera.com/"
+		"link": "https://www.misharastrera.com/",
+		"image": "../image/logo-misha.png"
 	},
 	{
 		" ": "78",
@@ -157,7 +176,8 @@
 		"description": "Empacamos transformamos y comercializamos alimentos nacionales y organicos. Poniendo en valor la biodiversidad Peruana. Nuestros productos sin totalmente integrales ko usamos insumos refinados preservantes ni aditivos.",
 		"item": "Alimentación",
 		"department": "Cusco",
-		"link": "http://www.munayperu.com/"
+		"link": "http://www.munayperu.com/",
+		"image": "../image/logo-munay.png"
 	},
 	{
 		" ": "79",
@@ -165,7 +185,8 @@
 		"description": "Somos una agencia de viajes especializada en turismo sostenible dirigida a personas que gusten de viajes sostenibles con responsabilidad social y ambiental.",
 		"item": "Ecoturismo",
 		"department": "Lima",
-		"link": "https://nassftravel.com/"
+		"link": "https://nassftravel.com/",
+		"image": "../image/logo-nassf.jpeg"
 	},
 	{
 		" ": "88",
@@ -173,7 +194,8 @@
 		"description": "Producción y comercialización sostenible de carbon vegetal y briquetas certificado FSC con los desechos de la industria forestal mediante pirólisis de la madera reduciendo el impacto.",
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
-		"link": "https://www.olmoscarbon.com/"
+		"link": "https://www.olmoscarbon.com/",
+		"image": "../image/logo-olmos.png"
 	},
 	{
 		" ": "99",
@@ -181,7 +203,8 @@
 		"description": "Qaya es una empresa socio-ambiental que produce productos con cuero de pescado curtido con curtientes vegetales. Las pieles que usa son residuos de la pesca artesanal y subproductos de la acuicultura.",
 		"item": "Moda sostenible",
 		"department": "Lima",
-		"link": "https://www.yooying.com/qayacuerodepescadoperuano"
+		"link": "https://www.yooying.com/qayacuerodepescadoperuano",
+		"image": "../image/logo-qaya.png"
 	},
 	{
 		" ": "103",
@@ -189,7 +212,8 @@
 		"description": " Busca reciclar plásticos PET en el circuito turístico del Cusco con el fin de reducir el impacto ambiental en base al principio de sostenibilidad",
 		"item": "Eficiencia de recursos",
 		"department": "Cusco",
-		"link": "https://www.facebook.com/pages/category/Local-Business/RECuscO-205324106218535/"
+		"link": "https://www.facebook.com/pages/category/Local-Business/RECuscO-205324106218535/",
+		"image": "../image/logo-recusco.jpeg"
 	},
 	{
 		" ": "107",
@@ -197,7 +221,8 @@
 		"description": "Empresa dedicada a la producción de alimentos y productos agrícolas basados en el acompañamiento de los agricultores mejorando la calidad en los procesos con respeto al ambiente a la organización social y la cultura.",
 		"item": "Alimentación",
 		"department": "Lima",
-		"link": "https://runaq.com.pe/"
+		"link": "https://runaq.com.pe/",
+		"image": "../image/logo-runaq.jpeg"
 	},
 	{
 		" ": "110",
@@ -205,7 +230,8 @@
 		"description": "Envases platos, vasos, utensilios biodegradables",
 		"item": "Eficiencia de recursos",
 		"department": "Huánuco",
-		"link": "https://www.facebook.com/sashanaturaperu/"
+		"link": "https://www.facebook.com/sashanaturaperu/",
+		"image": "../image/logo-sasha.png"
 	},
 	{
 		" ": "112",
@@ -213,7 +239,8 @@
 		"description": "Empresa peruana dedicada al comercio de alimentos y cosméticos de áreas protegidas.",
 		"item": "Alimentación",
 		"department": "Lima",
-		"link": "https://shiwi.pe/"
+		"link": "https://shiwi.pe/",
+		"image": "../image/logo-shiwi.jpeg"
 	},
 	{
 		" ": "113",
@@ -221,7 +248,8 @@
 		"description": " ",
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
-		"link": "http://sinba.pe/"
+		"link": "http://sinba.pe/",
+		"image": "../image/logo-sinba.png"
 	},
 	{
 		" ": "118",
@@ -229,6 +257,7 @@
 		"description": "Proyecto de conservación de bosques de neblina en Oxapampa mediante el ecoturismo",
 		"item": "Ecoturismo",
 		"department": "Pasco",
-		"link": "https://www.ulcumanoecolodge.com/"
+		"link": "https://www.ulcumanoecolodge.com/",
+		"image": "../image/logo-ulcumano.png"
 	}
 ]
