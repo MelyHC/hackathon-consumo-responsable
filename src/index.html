@@ -1,185 +1,161 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Page Title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Page Title</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
 
-    <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
-  </head>
-  <body>
-    <nav>
-      <div class="nav nav-tabs" id="nav-tab" role="tablist">
-        <a
-          class="nav-item nav-link active"
-          id="nav-home-tab"
-          data-toggle="tab"
-          href="#nav-home"
-          role="tab"
-          aria-controls="nav-home"
-          aria-selected="true"
-          >Home</a
-        >
-        <a
-          class="nav-item nav-link"
-          id="nav-profile-tab"
-          data-toggle="tab"
-          href="#nav-profile"
-          role="tab"
-          aria-controls="nav-profile"
-          aria-selected="false"
-          >Profile</a
-        >
-        <a
-          class="nav-item nav-link"
-          id="nav-contact-tab"
-          data-toggle="tab"
-          href="#nav-contact"
-          role="tab"
-          aria-controls="nav-contact"
-          aria-selected="false"
-          >Contact</a
-        >
-      </div>
-    </nav>
-    <div class="tab-content" id="nav-tabContent">
-      <div
-        class="tab-pane fade show active"
-        id="nav-home"
-        role="tabpanel"
-        aria-labelledby="nav-home-tab"
-      >
-        <div class="container-fluid divFirst">
-          <div class="row rowTwoColumn">
-            <div class="col-md-7 pb-3 pt-5 textColumn">
-              <h1 class="titleDiv pt-1">
-                ¿Ya conoces las empresas responsables?
-              </h1>
-              <p>
-                Te mostramos un listado de los econegocios y bionegocios que
-                ofrecen opciones ecoamigables
-              </p>
-              <button
-                type="button"
-                class="btn btn-warning"
-                
-              >                    <a class="nav-link" href="#section1">INICIO</a>
+  <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+</head>
 
-              </button>
-            </div>
-            <div class="col-md-5 pb-5 firstColumn2">
-              <img
-                src="./image/300familymanwomangirl2_100518.png"
-                class="imgColumn"
-                alt=""
-              />
-            </div>
-          </div>
-          <div class="row rowMunicipality pt-4 pb-4">
-            <div class="col-md-12 pt-4 textColumn colorWhite">
-              <h2>Puntos de reciclaje</h2>
-              <p>Tú y tu municipalidad pueden hacer el cambio.</p>
-              <p>
-                Averigua dónde es el punto de acopio más cercano a ti y empieza
-                a reciclar.
-              </p>
-            </div>
-            <div class="col-md-12 mx-1 pt-3 columnBtns mb-5">
-              <div class="row">
-                <div class="col-md-6 rowBtn pb-3">
-                  <button
-                    type="button"
-                    class="btn btn-primary mx-5 "
-                    data-toggle="button"
-                    aria-pressed="false"
-                    autocomplete="off"
-                  >
-                    Single toggle
-                  </button>
+<body>
+
+  <nav>
+    <div class="nav nav-tab  navstyle " id="nav-tab" role="tablist">
+      <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab"
+        aria-controls="nav-home" aria-selected="true">Home</a>
+      <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab"
+        aria-controls="nav-profile" aria-selected="false">Empresas responsables</a>
+
+      <a class="nav-item nav-link" id="nav-lugares-tab" data-toggle="tab" href="#nav-lugares" role="tab"
+        aria-controls="nav-lugares" aria-selected="false">Lugares de acopio</a>
+      <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab"
+        aria-controls="nav-contact" aria-selected="false"> Iniciativas</a>
+    </div>
+  </nav>
+
+  <div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+        <div id="box1">
+
+            <div id="adios">
+              <div class="container-fluid">
+                <br>
+                <div class="row rowTwoColumn sizerow">
+                  <div class="col-md-7  pt-5 textColumn">
+                    <h1 class="titleDiv pt-1">¿Ya conoces las empresas responsables?</h1>
+                    <p>Te mostramos un listado de los econegocios y bionegocios que ofrecen opciones ecoamigables</p>
+                    <button type="button" class="btn btn-warning buttons " data-toggle="button" aria-pressed="false"
+                      autocomplete="off">
+                      <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab"
+                        aria-controls="nav-profile" aria-selected="false">Empresas responsables</a>
+    
+                    </button>
+                  </div>
+                  <div class="col-md-5 pb-5 firstColumn2">
+                    <img src="./image/300familymanwomangirl2_100518.png" class="imgColumn" alt="">
+                  </div>
                 </div>
-                <div class="col-md-6 rowBtn pb-3">
-                  <button
-                    type="button"
-                    class="btn btn-primary  mx-5"
-                    data-toggle="button"
-                    aria-pressed="false"
-                    autocomplete="off"
-                  >
-                    Single toggle
-                  </button>
-                </div>
+    
               </div>
             </div>
+    
           </div>
-          <div class="row">
-            <div class="col-md-6 textColumn2 pt-4">
-              <h2 class="colorGreen">
-                ¿Sabías que solo el 5% de los limeños usa bicicleta?
-              </h2>
-              <p>
-                Conoce las iniciativas de tu localidad que
-                <b>generan un cambio</b> y únete al programa que más se te
-                acomode.
-              </p>
-              <button
-                type="button"
-                class="btn btn-primary"
-                data-toggle="button"
-                aria-pressed="false"
-                autocomplete="off"
-              >
-                Single toggle
-              </button>
+          <div id="box2">
+            <div id="hola">
+              <div class="col-md-12 pt-5 textColumn colorWhite">
+                <h2>Puntos de reciclaje</h2>
+                <p> Tú y tu municipalidad pueden hacer el cambio.
+                </p>
+                <p>Averigua dónde es
+                  el punto de acopio más cercano a ti y empieza a reciclar.
+                </p>
+              </div>
+              <br>
+    
+              <div class="col-md-12 pt-4 columnBtns mb-5">
+    
+                <div class="row">
+    
+                  <div class="col-md-6 rowBtn pt-5 ">
+                    <button class="btn btn-warning  buttons"><a class="nav-item nav-link" id="nav-lugares-tab"
+                        data-toggle="tab" href="#nav-lugares" role="tab" aria-controls="nav-lugares"
+                        aria-selected="false">Lugares de acopio</a></button>
+    
+                  </div>
+                  <div class="col-md-6 rowBtn pt-5">
+                    <button class="btn btn-warning">hol</button>
+    
+                  </div>
+                </div>
+              </div>
+    
+    
             </div>
-            <div class="col-md-4 divImg"></div>
           </div>
+          <div id="box3">
+            <div class="col-12">
+              <div class="row pt-3 row3">
+                <div class="col-8 pt-5">
+    
+                  <h2 class="colorGreen">¿Sabías que solo el 5% de los limeños usa
+                    bicicleta?
+                  </h2>
+                  <p>Conoce las iniciativas de tu localidad que
+                    <b>generan un cambio</b> y únete al programa que más se te
+                    acomode.
+                  </p>
+                  <button type="button" class="btn btn-warning buttons" data-toggle="button" aria-pressed="false"
+                    autocomplete="off">
+                    <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab"
+                      aria-controls="nav-contact" aria-selected="false"> Iniciativas</a>
+                  </button>
+                </div>
+                <div class="col-4">
+                  <img src="./Group (1).png" class="divImg">
+                </div>
+    
+              </div>
+            </div>
+            <div>
+            </div>
+    
+    
+          </div>
+    </div>
+
+
+
+
+    <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+      <div id="box5">
+        <div id="box6">
+          <h1 class="text-light titulo " id='section1'> Empresas responsables
+            <br>
+            2019
+            <br><br>
+            <span class="titulo2 font-weight-bold">Conoce la lista actualizada </span>
+          </h1>
         </div>
       </div>
-      <div
-        class="tab-pane fade"
-        id="nav-profile"
-        role="tabpanel"
-        aria-labelledby="nav-profile-tab"
-      >
-      <div id="box1">
-          <div id="hola">
-            <h1 class="text-light titulo " id='section1'> Empresas responsables
-              <br>
-              2019
-              <br><br>
-              <span class="titulo2 font-weight-bold">Conoce la lista actualizada </span>
-            </h1>
+      <div class="container pb-10">
+        <h4 class="p-5">1.Selecciona una categoria </h4>
+        <div class="col-10">
+
+          <div class="row d-flex justify-content-around botones ">
+
+            <div class="p-2"><button type="button" class="btn  tipos btn1 "><i class="fas fa-apple-alt"></i>
+                <br>Alimentos </button></div>
+            <div class="p-2"><button type="button" class="btn btn-danger tipos btn2"><i
+                  class="fas fa-weight-hanging"></i><br>Moda</button></div>
+            <div class="p-2"><button type="button" class="btn btn-warning tipos btn3"><i class="fas fa-apple-alt"></i>
+                <br>Cosmeticos </button></div>
+            <div class="p-2"><button type="button" class="btn btn-primary tipos btn4"><i
+                  class="fas fa-plane-departure"></i>
+                <br>Ecoturismo </button></div>
+            <div class="p-2"><button type="button" class="btn btn-warning tipos btn5"><i class="fas fa-sync-alt"></i>
+                <br>Otros recursos </button></div>
           </div>
+
         </div>
-        <div class="container pb-10">
-          <h4 class="p-5">1.Selecciona una categoria </h4>
-          <div class="col-10">
-      
-            <div class="row d-flex justify-content-around botones ">
-              
-              <div class="p-2"><button type="button" class="btn  tipos btn1 "><i class="fas fa-apple-alt"></i>
-                  <br>Alimentos </button></div>
-              <div class="p-2"><button type="button" class="btn btn-danger tipos btn2"><i
-                    class="fas fa-weight-hanging"></i><br>Moda</button></div>
-              <div class="p-2"><button type="button" class="btn btn-warning tipos btn3"><i class="fas fa-apple-alt"></i>
-                  <br>Cosmeticos </button></div>
-              <div class="p-2"><button type="button" class="btn btn-primary tipos btn4"><i class="fas fa-plane-departure"></i>
-                  <br>Ecoturismo </button></div>
-              <div class="p-2"><button type="button" class="btn btn-warning tipos btn5"><i class="fas fa-sync-alt"></i>
-                  <br>Otros recursos </button></div>
-            </div>
-      
-          </div>
-       <div class="col-10 ">
+        <div class="col-10 ">
           <h4 class="p-5">2.Ahora escoge tu provincia </h4>
           <select class="custom-select ">
             <option selected="">Open this select menu</option>
@@ -188,179 +164,145 @@
             <option value="3">Three</option>
           </select>
         </div>
-      <br>
+        <br>
         <div class="col-10 pb-5 tabla">
-            <table class="table">
-                <thead>
-                  <tr>
-                    <th>#</th>
-                    <th>Nombre</th>
-                    <th>Descripcion</th>
-                    <th>Contacto</th>
-      
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                  </tr>
-                  <tr>
-                    <th scope="row">2</th>
-                    <td>Jacob</td>
-                    <td>Thornton</td>
-                  </tr>
-                </tbody>
-              </table>
-              
+          <table class="table">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Nombre</th>
+                <th>Descripcion</th>
+                <th>Contacto</th>
+
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">1</th>
+                <td>Mark</td>
+                <td>Otto</td>
+              </tr>
+              <tr>
+                <th scope="row">2</th>
+                <td>Jacob</td>
+                <td>Thornton</td>
+              </tr>
+            </tbody>
+          </table>
+
         </div>
-      
-      
-        </div>
-      
-      
-        
+
+
       </div>
-      <div
-        class="tab-pane fade"
-        id="nav-contact"
-        role="tabpanel"
-        aria-labelledby="nav-contact-tab"
-      >
-        <div class="container-fluid" id="">
-          <div class="row">
-            <div class="col colIniciativas">
-              <h1>Iniciativas</h1>
+
+
+
+    </div>
+    <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+      <div class="container-fluid" id="">
+        <div class="row">
+          <div class="col colIniciativas">
+            <h1>Iniciativas</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <select>Elige distrito</select>
+          </div>
+          <div class="col-sm-6">
+            <div class="media cardIni">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="media-body">
+                    <h5 class="mt-0 mb-1">San Borja en Bici</h5>
+                    San Borja en Bici es un programa pensado para ti. Para
+                    acercarte y conectarte con tu comunidad y vecinos sin
+                    necesidad de sacar el auto o tomar un bus. Podrás hacer
+                    compras o pagos, conectarte de un paradero a otro...
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <img src="./image/detalle.png" class="ml-3" alt="..." width="220px" height="182px" />
+                  <button>Conoce más</button>
+                </div>
+              </div>
             </div>
           </div>
-          <div class="row">
-            <div class="col-sm-12">
-              <select
-                >Elige distrito</select
-              >
-            </div>
-            <div class="col-sm-6">
-              <div class="media cardIni">
-                <div class="row">
-                  <div class="col-md-6">
-                    <div class="media-body">
-                      <h5 class="mt-0 mb-1">San Borja en Bici</h5>
-                      San Borja en Bici es un programa pensado para ti. Para
-                      acercarte y conectarte con tu comunidad y vecinos sin
-                      necesidad de sacar el auto o tomar un bus. Podrás hacer
-                      compras o pagos, conectarte de un paradero a otro...
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <img
-                      src="./image/detalle.png"
-                      class="ml-3"
-                      alt="..."
-                      width="220px"
-                      height="182px"
-                    />
-                    <button>Conoce más</button>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6">
-              <div class="media cardIni">
-                <div class="row">
-                  <div class="col-md-6">
-                      <div class="media-body">
-                          <h5 class="mt-0 mb-1">San Isidro recicla</h5>
-                          San Isiro Recicla es un programa organizado por la
-                          Municipalidad de San Isidro junto a Tetra Pack Coca-Cola,
-                          Cliba, Disco, Reciclar y la Fundación Hábitat & Desarrollo que
-                          tiene por objetivo la concientización sobre la separación de
-                          residuos y posterior reciclado.
-                        </div>
-                  </div>
-                  <div class="col-md-6">
-                      <img
-                      src="./image/San-Isidro-Recicla.png"
-                      class="ml-3"
-                      alt="..."
-                      width="220px"
-                      height="182px"
-                    />
-                    <button>Conoce más</button>
-                  </div>
-                </div>
-               
-               
-              </div>
-            </div>
-            <div class="col-sm-6">
-              <div class="media cardIni">
+          <div class="col-sm-6">
+            <div class="media cardIni">
+              <div class="row">
                 <div class="col-md-6">
-                    <div class="media-body">
-                        <h5 class="mt-0 mb-1">San Borja en Bici</h5>
-                        San Borja en Bici es un programa pensado para ti. Para
-                        acercarte y conectarte con tu comunidad y vecinos sin
-                        necesidad de sacar el auto o tomar un bus. Podrás hacer
-                        compras o pagos, conectarte de un paradero a otro...
-                      </div>
+                  <div class="media-body">
+                    <h5 class="mt-0 mb-1">San Isidro recicla</h5>
+                    San Isiro Recicla es un programa organizado por la
+                    Municipalidad de San Isidro junto a Tetra Pack Coca-Cola,
+                    Cliba, Disco, Reciclar y la Fundación Hábitat & Desarrollo que
+                    tiene por objetivo la concientización sobre la separación de
+                    residuos y posterior reciclado.
+                  </div>
                 </div>
                 <div class="col-md-6">
-                    <img
-                    src="./image/detalle.png"
-                    class="ml-3"
-                    alt="..."
-                    width="220px"
-                    height="182px"
-                  />
+                  <img src="./image/San-Isidro-Recicla.png" class="ml-3" alt="..." width="220px" height="182px" />
                   <button>Conoce más</button>
                 </div>
-             
               </div>
+
+
             </div>
-            <div class="col-sm-6 ">
-              <div class="media cardIni">
-                <div class="col-md-6">
-                    <div class="media-body">
-                        <h5 class="mt-0 mb-1">San Isidro recicla</h5>
-                        San Isiro Recicla es un programa organizado por la
-                        Municipalidad de San Isidro junto a Tetra Pack Coca-Cola,
-                        Cliba, Disco, Reciclar y la Fundación Hábitat & Desarrollo que
-                        tiene por objetivo la concientización sobre la separación de
-                        residuos y posterior reciclado.
-                      </div>
+          </div>
+          <div class="col-sm-6">
+            <div class="media cardIni">
+              <div class="col-md-6">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">San Borja en Bici</h5>
+                  San Borja en Bici es un programa pensado para ti. Para
+                  acercarte y conectarte con tu comunidad y vecinos sin
+                  necesidad de sacar el auto o tomar un bus. Podrás hacer
+                  compras o pagos, conectarte de un paradero a otro...
                 </div>
-                <div class="col-md-6">
-                    <img
-                    src="./image/San-Isidro-Recicla.png"
-                    class="ml-3"
-                    alt="..."
-                    width="220px"
-                    height="182px"
-                  />
-                  <button>Conoce más</button>
+              </div>
+              <div class="col-md-6">
+                <img src="./image/detalle.png" class="ml-3" alt="..." width="220px" height="182px" />
+                <button>Conoce más</button>
+              </div>
+
+            </div>
+          </div>
+          <div class="col-sm-6 ">
+            <div class="media cardIni">
+              <div class="col-md-6">
+                <div class="media-body">
+                  <h5 class="mt-0 mb-1">San Isidro recicla</h5>
+                  San Isiro Recicla es un programa organizado por la
+                  Municipalidad de San Isidro junto a Tetra Pack Coca-Cola,
+                  Cliba, Disco, Reciclar y la Fundación Hábitat & Desarrollo que
+                  tiene por objetivo la concientización sobre la separación de
+                  residuos y posterior reciclado.
                 </div>
+              </div>
+              <div class="col-md-6">
+                <img src="./image/San-Isidro-Recicla.png" class="ml-3" alt="..." width="220px" height="182px" />
+                <button>Conoce más</button>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+  </div>
 
-    <script
-      src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-      crossorigin="anonymous"
-    ></script>
-    <script src="app.js"></script>
-  </body>
+
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <script src="app.js"></script>
+</body>
+
 </html>

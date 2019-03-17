@@ -1,171 +1,25 @@
-*{
-    margin: 0%;
-    padding: 0%
-
-}
-.firstColumn2{
-    background-image: url('./image/MacFamilyTree_30181.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-size: contain
-
-}
-.divfirst{
-    height: 100vh;
-}
-
-.imgColumn{
-    height: 60%; 
-    width: 50%;
-    
-}
-.textColumn2{
-    
-    /* padding-top: 12% */
-    padding-left: 5%;
-    /* padding-right: 5%; */
-    padding-bottom: 3%;
-    
-    
-}
-
-/* .textLeft{
-    width: 40%
-} */
-
-.rowTwoColumn{
-    /* background-size: contain;
-    /* height: 50vh;  */
-    /*background-image: url('./image/imag0107.png');
-    background-repeat: no-repeat;
-    background-size: 100%;
-    
-    width: 100%; */
-    position: relative;
-    z-index:1;
-    overflow:hidden;
-}
-.rowTwoColumn:before{
-    z-index:-1;
-    position:absolute;
-    left:0;
-    top:0;
-    content: url('./image/parque-exposicion-4\ \(1\).png');
-    opacity:0.4;
-}
-.titleDiv{
-    font-size: 2rem
-}
-.divImg{
-    background-image: url('./image/Group\ \(1\).png');
-    background-repeat: no-repeat;
-    background-position: 100%;
-    background-size: 50% 100%
-}
-.textColumn{
-    text-align: center;
-    /* padding-top: 12% */
-    padding-left: 5%;
-    padding-right: 5%;
-    
-}
-.colorWhite{
-    color: white
-}
-.colorGreen{
-    color: rgb(57, 168, 57)
-}
-
-.columnBtns{ 
-    display: block;
-    justify-items: center
-}
-
-.rowMunicipality{
-            
-    
-     background-image: url('./image/imag0107.png'); 
-     box-shadow: inset 0px 0px 100px 900px rgba(0,0,0,0.5);
-     
-}
-
-
-.colIniciativas{
-    position: relative;
-    z-index:1;
-    overflow:hidden;
-    height: 50vh;
-    display: flex;
-    justify-content: center;
-    align-items: center
-}
-.colIniciativas:after{
-    z-index:-1;
-    position:absolute;
-    left:0;
-    top:0;
-    content: url('./image/ciudades.png');
-    opacity:0.8;
-    /* background-color:  rgba(95, 241, 108, 0.781) */
-   
-}
-.cardIni{
-    padding: 5% 5% 5% 5%;
-    border: 2px solid rgb(57, 168, 57);
-    margin: 10px 10px 10px 10px
-}
-.btn{
-    width: 200px;
-    
-}
-
-.rowBtn{
-    display: flex;
-    justify-content: center
-}
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
-body {
-  margin: 0;
-  padding: 0;
-}
-.btn1{
-  background-color:#FF9914
-}
-.btn2{
-  background-color:#EF2D56
-}
-.btn3{
-  background-color:#820263
-}
-.btn4{
-  background-color:#008BF8
-}
-.btn5{
-  background-color:#FDCA40
-}
-.tipos{
-  display:block;
-  height: 150px;
-  width: 150px;
-  border-radius: 50%;
-  font-size:160% ; 
-  color: white
-}
-.tabla{
-background-color:#D5F946 }
 #box1 {
-  height: 50vh;
+  height: 70vh;
   width: 100%;
-  background-image: url("../src/image/architecture-bar-bookcase.png");
+  background-image: url("../src/image/parque-exposicion-4\ \(1\).png");
   background-size: cover;
   display: table;
   background-attachment: fixed;
-  z-index: -10;
-  position: relative;
+position: relative;
+  
 }
+
+#adios {
+      
+  display: table;
+position: absolute;
+background-color: rgba(244, 254, 221, 0.91);
+top: 0;
+bottom: 0;
+height: 100%;
+width: 100%;
+}
+
 #hola {
       
   display: table;
@@ -175,43 +29,123 @@ top: 0;
 bottom: 0;
 height: 100%;
 width: 100%;
-z-index: -5;
 }
-.titulo {
-  font-size: 50px;
-  color:white;
-  margin: 0px;
+#box2 {
+  height: 70vh;
+  width: 100%;
+  background-image: url("../src/image/imag0107.png");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+  
+  position: relative;
+}
+
+#box3 {
+  height: 70vh;
+  width: 100%;
+ 
+}
+
+*{
+  margin: 0%;
+  padding: 0%
+
+}
+
+.divfirst{
+  height: 100vh;
+}
+.sizerow{
+  height: 50vh;
+  width: 100%;
+}
+.imgColumn{
+  height: 60%; 
+  width: 50%;
+  
+}
+.textColumn2{
+  
+  /* padding-top: 12% */
+  padding-left: 5%;
+  /* padding-right: 5%; */
+  padding-bottom: 3%;
+  
+  
+}
+
+/* .textLeft{
+  width: 40%
+} */
+
+.rowTwoColumn{
+  /* background-size: contain;
+  /* height: 50vh;  */
+  /*background-image: url('./image/imag0107.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  
+  width: 100%; */
+  position: relative;
+  z-index:1;
+  overflow:hidden;
+}
+
+.titleDiv{
+  font-size: 2rem
+}
+.divImg{
+  width: 80%
+  /* background-image: url('./image/Group\ \(1\).png'); */
+ 
+}
+.textColumn{
   text-align: center;
-  display: table-cell;
-  vertical-align: middle;
-  font-family: 'Roboto Slab', serif;
-
+  /* padding-top: 12% */
+  padding-left: 5%;
+  padding-right: 5%;
+  
 }
-.botones {
-  margin-left: 8%
-
+.colorWhite{
+  color: white
 }
-.titulo2 {
-  font-size: 20px;
-  font-family: 'Metrophobic', sans-serif;
-
-
+.colorGreen{
+  color: rgb(57, 168, 57)
 }
 
-.selectpro{
-  width: 379px;
-height: 52px;
+.columnBtns{ 
+  display: block;
+  justify-items: center
 }
-@media(max-width:400px){
-
-  .tipos{
-    display:block;
-    height: 90px;
-    width: 90px;
-    border-radius: 50%;
-    font-size:90% ; 
-    color: white;
-    align-content: center;
-
-  }
+@media(max-width:500px){
+.divImg{display: none;}
+#box3{align-content: center}
 }
+
+
+
+
+.colIniciativas{
+  background-color: aquamarine;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+.cardIni{
+  padding: 5% 5% 5% 5%
+}
+.btn{
+  width: 200px;
+  
+}
+
+
+.rowBtn{
+  display: flex;
+  justify-content: center
+}
+
+
+
