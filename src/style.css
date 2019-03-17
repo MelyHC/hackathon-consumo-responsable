@@ -20,32 +20,79 @@
 .imgColumn{
     height: 60%; 
     width: 50%;
-    opacity: 0.91;
+    
+}
+.textColumn2{
+    
+    /* padding-top: 12% */
+    padding-left: 5%;
+    /* padding-right: 5%; */
+    padding-bottom: 3%;
+    
+    
 }
 
+/* .textLeft{
+    width: 40%
+} */
+
 .rowTwoColumn{
-    background-size: contain;
+    /* background-size: contain;
     /* height: 50vh;  */
-    width: 100%;
+    /*background-image: url('./image/imag0107.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    width: 100%; */
+    position: relative;
+    z-index:1;
+    overflow:hidden;
+}
+.rowTwoColumn:before{
+    z-index:-1;
+    position:absolute;
+    left:0;
+    top:0;
+    content: url('./image/parque-exposicion-4\ \(1\).png');
+    opacity:0.4;
 }
 .titleDiv{
     font-size: 2rem
+}
+.divImg{
+    background-image: url('./image/Group\ \(1\).png');
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 50% 100%
 }
 .textColumn{
     text-align: center;
     /* padding-top: 12% */
     padding-left: 5%;
-    padding-right: 5%
+    padding-right: 5%;
+    
 }
+.colorWhite{
+    color: white
+}
+.colorGreen{
+    color: rgb(57, 168, 57)
+}
+
 .columnBtns{ 
     display: block;
     justify-items: center
 }
 
 .rowMunicipality{
-    background-color: blueviolet;
+            
     
+     background-image: url('./image/imag0107.png'); 
+     box-shadow: inset 0px 0px 100px 900px rgba(0,0,0,0.5);
+     
 }
+
+
 .colIniciativas{
     background-color: aquamarine;
     height: 50vh;
