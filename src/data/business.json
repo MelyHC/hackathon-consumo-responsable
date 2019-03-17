@@ -3,7 +3,7 @@
 		" ": "3",
 		"name": "ALGAEX S.A",
 		"description": "Somos una empresa que brinda servicio de supervisión ambiental de monitoreos y estudios medio ambientales para la seguridad personal y la seguridad del medio ambiente ",
-		"item": "Servicios",
+		"item": "Eficiencia de recursos",
 		"department": "Lima",
 		"link": "https://algaex.pe/"
 	},
@@ -27,7 +27,7 @@
 		" ": "26",
 		"name": "Cooperativa Agrobosque",
 		"description": "Organización dedicada al cultivo de cacao aromáticos, nativos mediante una práctica responsable, un enfoque empresarial cooperativo.",
-		"item": "Buenas prácticas agrícolas",
+		"item": "Eficiencia de recursos",
 		"department": "Madre de Dios",
 		"link": "https://cooperativaagrobosque.blogspot.com/"
 	},
@@ -203,7 +203,7 @@
 		" ": "110",
 		"name": "SASHA NATURA SAC",
 		"description": "Envases platos, vasos, utensilios biodegradables",
-		"item": "Servicios",
+		"item": "Eficiencia de recursos",
 		"department": "Huánuco",
 		"link": "https://www.facebook.com/sashanaturaperu/"
 	},
@@ -227,7 +227,7 @@
 		" ": "118",
 		"name": "Ulcumano Ecolodge",
 		"description": "Proyecto de conservación de bosques de neblina en Oxapampa mediante el ecoturismo",
-		"item": "Servicios",
+		"item": "Ecoturismo",
 		"department": "Pasco",
 		"link": "https://www.ulcumanoecolodge.com/"
 	}
