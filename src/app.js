@@ -1,36 +1,51 @@
-const business = require('./data/business.json');
+const filterCategorys = (arr, find, value) => {
+  console.log(value)
 
-const filterCategory = (arr, find, value) => {
-  const businessCategory = arr.filter(company => {
-    const category = company[find];
-    if (category.includes(value)) {
-      return category;
-    };
-  })
-  return businessCategory;
+  if (find && value) {
+    const businessCategory = arr.filter(company => {
+      const category = company[find];
+      if (category.includes(value)) {
+        return category;
+      };
+    })
+    return businessCategory;
+  }
+  return arr;
 }
 
 const extractDepartments = (arr, find) => {
-  const department = [];
-  arr.forEach(company => {
-    const location = company[find];
+  if (find) {
+    const department = [];
+    arr.forEach(company => {
+      const location = company[find];
 
-    if (!department.find(place => place === location)) {
-      department.push(location);
-    }
-  });
-  return department;
+      if (!department.find(place => place === location)) {
+        department.push(location);
+      }
+    });
+    return department;
+  }
+  return arr
 };
 
 const findBusiness = (arr, find, value) => {
-  const business = [];
-  arr.forEach(company => {
-    const department = company[find];
-    if (value === department) {
-      business.push(company)
-    }
-  })
-  return business;
+  if (find && value) {
+    const business = [];
+    arr.forEach(company => {
+      const department = company[find];
+      if (value === department) {
+        business.push(company)
+      }
+    })
+    return business;
+  }
+  return arr;
 }
 
-console.log(filterCategory(business, 'item', 'Moda'))
+const cotrollerBusinnes = (arr, option) => {
+  console.log(option)
+  const filterCategory = filterCategorys(arr, option.findItem, option.category);
+  const findCompany = findBusiness(filterCategory, option.findDepartment, option.department);
+
+  return findCompany;
+}

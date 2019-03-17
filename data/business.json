@@ -6,7 +6,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
 		"link": "https://algaex.pe/",
-		"image": "../image/logo-algaex.png"
+		"image": "../src/image/logo_algaex.png"
 	},
 	{
 		" ": "4",
@@ -15,7 +15,7 @@
 		"item": "Alimentación",
 		"department": "Lima",
 		"link": "https://www.kunan.com.pe/ally-mishky/",
-		"image": "../image/logo-allymishky.jpeg"
+		"image": "../src/image/logo-allymishky.jpeg"
 	},
 	{
 		" ": "10",
@@ -24,7 +24,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
 		"link": "https://arquitekturas.com/",
-		"image": "../image/logo-arquitekturas.png"
+		"image": "../src/image/logo-arquitekturas.png"
 	},
 	{
 		" ": "26",
@@ -33,7 +33,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Madre de Dios",
 		"link": "https://cooperativaagrobosque.blogspot.com/",
-		"image": "../image/logo-agrobosque.jpeg"
+		"image": "../src/image/logo-agrobosque.jpeg"
 	},
 	{
 		" ": "27",
@@ -42,7 +42,7 @@
 		"item": "Alimentación",
 		"department": "San Martín",
 		"link": "http://ampaperu.info/tag/cooperamaz/",
-		"image": "../image/logo-ampa.png"
+		"image": "../src/image/logo-ampa.png"
 	},
 	{
 		" ": "29",
@@ -51,7 +51,7 @@
 		"item": "Alimentación",
 		"department": "Lima",
 		"link": "https://cruzcampoperu.com/",
-		"image": "../image/logo-cruzCampo.png"
+		"image": "../src/image/logo-cruzCampo.png"
 	},
 	{
 		" ": "32",
@@ -60,7 +60,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
 		"link": "http://inecore.com/",
-		"image": "../image/logo-dragon.png"
+		"image": "../src/image/logo-dragon.png"
 	},
 	{
 		" ": "129",
@@ -69,7 +69,7 @@
 		"item": "Moda sostenible",
 		"department": "Puno",
 		"link": "https://www.facebook.com/totoratiticaca/",
-		"image": "../image/logo-ecoArtesanías.png"
+		"image": "../src/image/logo-ecoArtesanías.png"
 	},
 	{
 		" ": "34",
@@ -78,7 +78,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "San Martín",
 		"link": "https://www.facebook.com/EcocarbonBioverde/",
-		"image": "../image/logo-ecocarbon.jpeg"
+		"image": "../src/image/logo-ecocarbon.jpeg"
 	},
 	{
 		" ": "38",
@@ -87,7 +87,7 @@
 		"item": "Alimentación",
 		"department": "Lima",
 		"link": "https://www.facebook.com/elementochocolates/",
-		"image": "../image/logo-elemento.jpeg"
+		"image": "../src/image/logo-elemento.jpeg"
 	},
 	{
 		" ": "45",
@@ -96,7 +96,7 @@
 		"item": "Moda sostenible",
 		"department": "Lima",
 		"link": "https://evea-ecofashion.com/es/",
-		"image": "../image/logo-ecofashion.png"
+		"image": "../src/image/logo-ecofashion.png"
 	},
 	{
 		" ": "46",
@@ -105,7 +105,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "San Martín",
 		"link": "https://www.facebook.com/farocorp.sac/",
-		"image": "../image/logo-faro.png"
+		"image": "../src/image/logo-faro.png"
 	},
 	{
 		" ": "49",
@@ -114,7 +114,7 @@
 		"item": "Alimentación",
 		"department": "San Martín",
 		"link": "http://frutiawajun.com.pe/",
-		"image": "../image/logo-frutiawajun.jpeg"
+		"image": "../src/image/logo-frutiawajun.jpeg"
 	},
 	{
 		" ": "52",
@@ -123,7 +123,7 @@
 		"item": "Cosmética/Bienestar",
 		"department": "Lima",
 		"link": "http://www.gbcorp.net/#1",
-		"image": "../image/logo-bcCorp.png"
+		"image": "../src/image/logo-bcCorp.png"
 	},
 	{
 		" ": "54",
@@ -132,7 +132,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Cajamarca",
 		"link": "https://www.facebook.com/GreenIdeasCorp/",
-		"image": "../image/logo-grandes-ideas.jpeg"
+		"image": "../src/image/logo-grandes-ideas.jpeg"
 	},
 	{
 		" ": "58",
@@ -141,7 +141,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Ica",
 		"link": "https://ikreo.pe/index.php",
-		"image": "../image/logo-Ikreo.png"
+		"image": "../src/image/logo-Ikreo.png"
 	},
 	{
 		" ": "64",
@@ -150,7 +150,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
 		"link": "https://www.facebook.com/JankoEcobicis/",
-		"image": "../image/logo-bici.jpeg"
+		"image": "../src/image/logo-bici.jpeg"
 	},
 	{
 		" ": "65",
@@ -159,7 +159,7 @@
 		"item": "Alimentación",
 		"department": "Cusco",
 		"link": "https://www.facebook.com/TheChocolateFarmer/",
-		"image": "../image/logo-chocolateFarmer.png"
+		"image": "../src/image/logo-chocolateFarmer.png"
 	},
 	{
 		" ": "77",
@@ -168,7 +168,7 @@
 		"item": "Cosmética/bienestar",
 		"department": "Lima",
 		"link": "https://www.misharastrera.com/",
-		"image": "../image/logo-misha.png"
+		"image": "../src/image/logo-misha.png"
 	},
 	{
 		" ": "78",
@@ -177,7 +177,7 @@
 		"item": "Alimentación",
 		"department": "Cusco",
 		"link": "http://www.munayperu.com/",
-		"image": "../image/logo-munay.png"
+		"image": "../src/image/logo-munay.png"
 	},
 	{
 		" ": "79",
@@ -186,7 +186,7 @@
 		"item": "Ecoturismo",
 		"department": "Lima",
 		"link": "https://nassftravel.com/",
-		"image": "../image/logo-nassf.jpeg"
+		"image": "../src/image/logo-nassf.jpeg"
 	},
 	{
 		" ": "88",
@@ -195,7 +195,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
 		"link": "https://www.olmoscarbon.com/",
-		"image": "../image/logo-olmos.png"
+		"image": "../src/image/logo-olmos.png"
 	},
 	{
 		" ": "99",
@@ -204,7 +204,7 @@
 		"item": "Moda sostenible",
 		"department": "Lima",
 		"link": "https://www.yooying.com/qayacuerodepescadoperuano",
-		"image": "../image/logo-qaya.png"
+		"image": "../src/image/logo-qaya.png"
 	},
 	{
 		" ": "103",
@@ -213,7 +213,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Cusco",
 		"link": "https://www.facebook.com/pages/category/Local-Business/RECuscO-205324106218535/",
-		"image": "../image/logo-recusco.jpeg"
+		"image": "../src/image/logo-recusco.jpeg"
 	},
 	{
 		" ": "107",
@@ -222,7 +222,7 @@
 		"item": "Alimentación",
 		"department": "Lima",
 		"link": "https://runaq.com.pe/",
-		"image": "../image/logo-runaq.jpeg"
+		"image": "../src/image/logo-runaq.jpeg"
 	},
 	{
 		" ": "110",
@@ -231,7 +231,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Huánuco",
 		"link": "https://www.facebook.com/sashanaturaperu/",
-		"image": "../image/logo-sasha.png"
+		"image": "../src/image/logo-sasha.png"
 	},
 	{
 		" ": "112",
@@ -240,7 +240,7 @@
 		"item": "Alimentación",
 		"department": "Lima",
 		"link": "https://shiwi.pe/",
-		"image": "../image/logo-shiwi.jpeg"
+		"image": "../src/image/logo-shiwi.jpeg"
 	},
 	{
 		" ": "113",
@@ -249,7 +249,7 @@
 		"item": "Eficiencia de recursos",
 		"department": "Lima",
 		"link": "http://sinba.pe/",
-		"image": "../image/logo-sinba.png"
+		"image": "../src/image/logo-sinba.png"
 	},
 	{
 		" ": "118",
@@ -258,6 +258,6 @@
 		"item": "Ecoturismo",
 		"department": "Pasco",
 		"link": "https://www.ulcumanoecolodge.com/",
-		"image": "../image/logo-ulcumano.png"
+		"image": "../src/image/logo-ulcumano.png"
 	}
 ]

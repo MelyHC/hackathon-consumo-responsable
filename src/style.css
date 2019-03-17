@@ -121,6 +121,13 @@
     width: 200px;
     
 }
+.table td {
+  vertical-align: inherit;
+}
+
+.img {
+  width: 200px
+}
 
 .rowBtn{
     display: flex;
@@ -156,6 +163,13 @@ body {
 }
 .tabla{
 background-color:#D5F946 }
+
+.scroll {
+  overflow: scroll; 
+  width: 85%;
+  height: 330px;
+}
+
 #box1 {
   height: 50vh;
   width: 100%;
