@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+    padding: 0%
+
+}
+.firstColumn2{
+    background-image: url('./image/MacFamilyTree_30181.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain
+
+}
+.divfirst{
+    height: 100vh;
+}
+
+.imgColumn{
+    height: 60%; 
+    width: 50%;
+    opacity: 0.91;
+}
+
+.rowTwoColumn{
+    background-size: contain;
+    /* height: 50vh;  */
+    width: 100%;
+}
+.titleDiv{
+    font-size: 2rem
+}
+.textColumn{
+    text-align: center;
+    /* padding-top: 12% */
+    padding-left: 5%;
+    padding-right: 5%
+}
+.columnBtns{ 
+    display: block;
+    justify-items: center
+}
+
+.rowMunicipality{
+    background-color: blueviolet;
+    
+}
+.colIniciativas{
+    background-color: aquamarine;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.cardIni{
+    padding: 5% 5% 5% 5%
+}
+.btn{
+    width: 200px;
+    
+}
+
+.rowBtn{
+    display: flex;
+    justify-content: center
+}
