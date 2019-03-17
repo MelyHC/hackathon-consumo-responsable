@@ -137,8 +137,67 @@ width: 100%;
   padding: 5% 5% 5% 5%
 }
 .btn{
-  width: 200px;
-  
+    width: 200px;
+    
+}
+.table td {
+  vertical-align: inherit;
+}
+
+.img {
+  width: 200px
+}
+
+.rowBtn{
+    display: flex;
+    justify-content: center
+}
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+body {
+  margin: 0;
+  padding: 0;
+}
+.btn1{
+  background-color:#FF9914
+}
+.btn2{
+  background-color:#EF2D56
+}
+.btn3{
+  background-color:#820263
+}
+.btn4{
+  background-color:#008BF8
+}
+.btn5{
+  background-color:#FDCA40
+}
+.tipos{
+  display:block;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  font-size:160% ; 
+  color: white
+}
+.tabla{
+background-color:#D5F946 }
+
+.scroll {
+  overflow: scroll; 
+  width: 85%;
+  height: 330px;
+}
+
+#box1 {
+  height: 50vh;
+  width: 100%;
+  background-image: url("../src/image/architecture-bar-bookcase.png");
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+  z-index: -10;
+  position: relative;
 }
 
 
