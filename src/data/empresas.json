@@ -1,272 +1,234 @@
 ﻿[
 	{
 		" ": "3",
-		"Nombre del emprendimiento": "ALGAEX S.A",
-		"Observaciones": "Somos una empresa que brinda servicio de supervisión ambiental de monitoreos y estudios medio ambientales para la seguridad personal y la seguridad del medio ambiente ",
-		"Descripción del emprendimiento": "Servicios",
-		"Rubro": "Lima",
-		"Ubicación": "Roxana Maldonado Condezo",
-		"link": ""
+		"name": "ALGAEX S.A",
+		"description": "Somos una empresa que brinda servicio de supervisión ambiental de monitoreos y estudios medio ambientales para la seguridad personal y la seguridad del medio ambiente ",
+		"item": "Servicios",
+		"department": "Lima",
+		"link": "https://algaex.pe/"
 	},
 	{
 		" ": "4",
-		"Nombre del emprendimiento": "Ally Mishky",
-		"Observaciones": "Empresa social que hace productos nutritivos y naturales a base de frutas andinas",
-		"Descripción del emprendimiento": "Alimentación",
-		"Rubro": "Lima",
-		"Ubicación": "Gabriel Chaman",
-		"link": ""
+		"name": "Ally Mishky",
+		"description": "Empresa social que hace productos nutritivos y naturales a base de frutas andinas",
+		"item": "Alimentación",
+		"department": "Lima",
+		"link": "https://www.kunan.com.pe/ally-mishky/"
 	},
 	{
 		" ": "10",
-		"Nombre del emprendimiento": "Arquitekturas & Asociados Sac",
-		"Observaciones": "Nuestra sinergia empresarial nos ha logrado poner en el camino con empresas comprometidas con el desarrollo sostenible y encontrarnos con el entorno las costumbres y el planeta en armonia y paisajismo",
-		"Descripción del emprendimiento": "Eficiencia de recursos",
-		"Rubro": "",
-		"Ubicación": "Eduardo Noriega Campos",
-		"link": ""
+		"name": "Arquitekturas & Asociados Sac",
+		"description": "Nuestra sinergia empresarial nos ha logrado poner en el camino con empresas comprometidas con el desarrollo sostenible y encontrarnos con el entorno las costumbres y el planeta en armonia y paisajismo",
+		"item": "Eficiencia de recursos",
+		"department": "Lima",
+		"link": "https://arquitekturas.com/"
 	},
 	{
 		" ": "26",
-		"Nombre del emprendimiento": "Cooperativa Agrobosque",
-		"Observaciones": "Organización dedicada al cultivo de cacao aromáticos",
-		"Descripción del emprendimiento": " nativos mediante una práctica responsable",
-		"Rubro": " un enfoque empresarial cooperativo.",
-		"Ubicación": "Buenas prácticas agrícolas",
-		"link": "Madre de Dios"
+		"name": "Cooperativa Agrobosque",
+		"description": "Organización dedicada al cultivo de cacao aromáticos, nativos mediante una práctica responsable, un enfoque empresarial cooperativo.",
+		"item": "Buenas prácticas agrícolas",
+		"department": "Madre de Dios",
+		"link": "https://cooperativaagrobosque.blogspot.com/"
 	},
 	{
 		" ": "27",
-		"Nombre del emprendimiento": "Cooperativa Amazónica de Conservación Voluntaria y Comunal - COOPERAMAZ",
-		"Observaciones": " Cooperativa de multiproductos innovadores; ofertando servicios y productos con valor agregado provenientes del bosque",
-		"Descripción del emprendimiento": " de ecosistemas acuáticos y del paisaje. ",
-		"Rubro": "Alimentación",
-		"Ubicación": "San Martín",
-		"link": "Rosa Karina Pinasco Vela- titular de la ACP Pucunucho"
+		"name": "Cooperativa Amazónica de Conservación Voluntaria y Comunal - COOPERAMAZ",
+		"description": "Cooperativa de multiproductos innovadores; ofertando servicios y productos con valor agregado provenientes del bosque de ecosistemas acuáticos y del paisaje.",
+		"item": "Alimentación",
+		"department": "San Martín",
+		"link": "http://ampaperu.info/tag/cooperamaz/"
 	},
 	{
 		" ": "29",
-		"Nombre del emprendimiento": "Cruz Campo",
-		"Observaciones": "Empresa que proporciona superalimentos orgánicos y promueve cultivos agrícolas sostenibles y rentables en comunidades que ayuden a mejorar la calidad de vida de los agricultores.",
-		"Descripción del emprendimiento": "Alimentación",
-		"Rubro": "Lima",
-		"Ubicación": "Rosa Cruz Rimanchi",
-		"link": ""
+		"name": "Cruz Campo",
+		"description": "Empresa que proporciona superalimentos orgánicos y promueve cultivos agrícolas sostenibles y rentables en comunidades que ayuden a mejorar la calidad de vida de los agricultores.",
+		"item": "Alimentación",
+		"department": "Lima",
+		"link": "https://cruzcampoperu.com/"
 	},
 	{
 		" ": "32",
-		"Nombre del emprendimiento": "Dragón de agua",
-		"Observaciones": "Innovador economizador para baño dirigido a inodoros convencionales y doble botón",
-		"Descripción del emprendimiento": " el cual ahorrarhasta 4 litros en cada (flush) lo que te permite ahorrar  tanto agua como dinero.",
-		"Rubro": "Eficiencia de recursos",
-		"Ubicación": "Lima",
-		"link": "Andrés Salazar Quintero"
+		"name": "Dragón de agua",
+		"description": "Innovador economizador para baño dirigido a inodoros convencionales y doble botón el cual ahorrarhasta 4 litros en cada (flush) lo que te permite ahorrar  tanto agua como dinero.",
+		"item": "Eficiencia de recursos",
+		"department": "Lima",
+		"link": "http://inecore.com/"
 	},
 	{
 		" ": "129",
-		"Nombre del emprendimiento": "Eco Artesanías de Totora Titikaka- Chimú",
-		"Observaciones": "El econegocio de artesanías de totora",
-		"Descripción del emprendimiento": " es una iniciativa que aprovecha de manera sostenible los totorales y pone en valor la totora. Ayuda a proteger las especies del lago Titicaca y contribuye a la generación de ingresos para mujeres indígenas.",
-		"Rubro": "Moda sostenible",
-		"Ubicación": "Puno",
-		"link": "Miguel Domingo Flores Cuno"
+		"name": "Eco Artesanías de Totora Titikaka- Chimú",
+		"description": "El econegocio de artesanías de totora es una iniciativa que aprovecha de manera sostenible los totorales y pone en valor la totora. Ayuda a proteger las especies del lago Titicaca y contribuye a la generación de ingresos para mujeres indígenas.",
+		"item": "Moda sostenible",
+		"department": "Puno",
+		"link": "https://www.facebook.com/totoratiticaca/"
 	},
 	{
 		" ": "34",
-		"Nombre del emprendimiento": "Ecocarbon de Biomasa -ECOGUERREROS DEL PERÚ Y EL MUNDO",
-		"Observaciones": " Trabajar por el desarrollo de los pueblos y la justicia social en armonía con el medio ambiente",
-		"Descripción del emprendimiento": " hacer de nuestras ciudades lugares mejores para vivir",
-		"Rubro": " buscando ser líderes en el desarrollo con protección de la ecología.",
-		"Ubicación": "Eficiencia de recursos",
-		"link": "San Martín"
+		"name": "Ecocarbon de Biomasa -ECOGUERREROS DEL PERÚ Y EL MUNDO",
+		"description": " Trabajar por el desarrollo de los pueblos y la justicia social en armonía con el medio ambiente hacer de nuestras ciudades lugares mejores para vivir buscando ser líderes en el desarrollo con protección de la ecología.",
+		"item": "Eficiencia de recursos",
+		"department": "San Martín",
+		"link": "https://www.facebook.com/EcocarbonBioverde/"
 	},
 	{
 		" ": "38",
-		"Nombre del emprendimiento": "ELEMENTO Chocolate con causa",
-		"Observaciones": "Hacemos chocolates con cacaos nativos amazónicos que comercializamos justa y directamente con comunidades Awajún en Amazonas. ",
-		"Descripción del emprendimiento": "Alimentación",
-		"Rubro": "Lima",
-		"Ubicación": "Lorenzo Llosa",
-		"link": ""
+		"name": "ELEMENTO Chocolate con causa",
+		"description": "Hacemos chocolates con cacaos nativos amazónicos que comercializamos justa y directamente con comunidades Awajún en Amazonas. ",
+		"item": "Alimentación",
+		"department": "Lima",
+		"link": "https://www.facebook.com/elementochocolates/"
 	},
 	{
 		" ": "45",
-		"Nombre del emprendimiento": "Evea Ecofashion",
-		"Observaciones": "Desarrollamos una línea de calzado",
-		"Descripción del emprendimiento": " accesorios y biocueros con productos de la biodiversidad Peruana como la shiringa",
-		"Rubro": " colorantes naturales y materiales sostenibles como algodón orgánico.",
-		"Ubicación": "Moda sostenible",
-		"link": "Lima"
+		"name": "Evea Ecofashion",
+		"description": "Desarrollamos una línea de calzado accesorios y biocueros con productos de la biodiversidad Peruana como la shiringa colorantes naturales y materiales sostenibles como algodón orgánico.",
+		"item": "Moda sostenible",
+		"department": "Lima",
+		"link": "https://evea-ecofashion.com/es/"
 	},
 	{
 		" ": "46",
-		"Nombre del emprendimiento": "FARO CORPORATION SAC",
-		"Observaciones": "Empresa que comercializa y distribuye tecnologías limpias",
-		"Descripción del emprendimiento": " venta de paneles solares y accesorios",
-		"Rubro": " cocinas y hornos mejorados (portatiles",
-		"Ubicación": " moviles y fijas)",
-		"link": "Eficiencia de recursos"
+		"name": "FARO CORPORATION SAC",
+		"description": "Empresa que comercializa y distribuye tecnologías limpias venta de paneles solares y accesorios cocinas y hornos mejorados (portatiles moviles y fijas)",
+		"item": "Eficiencia de recursos",
+		"department": "San Martín",
+		"link": "https://www.facebook.com/farocorp.sac/"
 	},
 	{
 		" ": "49",
-		"Nombre del emprendimiento": "Frutiawajun SAC",
-		"Observaciones": "Producción y comercialización de frutos amazónicos de la mano de las comunidades nativas Awajún del Alto Mayo en San Martín",
-		"Descripción del emprendimiento": "Alimentación",
-		"Rubro": "San Martín",
-		"Ubicación": "Ricardo Díaz Hart",
-		"link": ""
+		"name": "Frutiawajun SAC",
+		"description": "Producción y comercialización de frutos amazónicos de la mano de las comunidades nativas Awajún del Alto Mayo en San Martín",
+		"item": "Alimentación",
+		"department": "San Martín",
+		"link": "http://frutiawajun.com.pe/"
 	},
 	{
 		" ": "52",
-		"Nombre del emprendimiento": "Global Beauty Corporation",
-		"Observaciones": "Es una empresa multimarca",
-		"Descripción del emprendimiento": " que diseña",
-		"Rubro": " desarrolla y comercializa marcas cosméticas de vanguardia",
-		"Ubicación": " con productos innovadores de alta tecnología",
-		"link": " calidad"
+		"name": "Global Beauty Corporation",
+		"description": "Es una empresa multimarca, que diseña, desarrolla y comercializa marcas cosméticas de vanguardia, con productos innovadores de alta tecnología, calidad, seguridad y efectividad.",
+		"item": "Cosmética/Bienestar",
+		"department": "Lima",
+		"link": "http://www.gbcorp.net/#1"
 	},
 	{
 		" ": "54",
-		"Nombre del emprendimiento": "Green Ideas Corporation",
-		"Observaciones": "Generadora de ideas verdes fomentando el desarrollo empresarial",
-		"Descripción del emprendimiento": " sostenible",
-		"Rubro": " innovación",
-		"Ubicación": " investigación en ciencia y tecnología",
-		"link": "Eficiencia de recursos"
+		"name": "Green Ideas Corporation",
+		"description": "Generadora de ideas verdes fomentando el desarrollo empresarial sostenible innovación investigación en ciencia y tecnología",
+		"item": "Eficiencia de recursos",
+		"department": "Cajamarca",
+		"link": "https://www.facebook.com/GreenIdeasCorp/"
 	},
 	{
 		" ": "58",
-		"Nombre del emprendimiento": "Ikreo Perú",
-		"Observaciones": "Es una plataforma digital que permite a las empresas y familias integrarse a un programa de reciclaje a domicilio. Brindamos capacitación en gestión de RRSS",
-		"Descripción del emprendimiento": " reciclaje y recuperación de materiales en comunidades",
-		"Rubro": "Eficiencia de recursos",
-		"Ubicación": "Ica",
-		"link": "Luis Arturo Caccha Gutierrez"
+		"name": "Ikreo Perú",
+		"description": "Es una plataforma digital que permite a las empresas y familias integrarse a un programa de reciclaje a domicilio. Brindamos capacitación en gestión de RRSS reciclaje y recuperación de materiales en comunidades",
+		"item": "Eficiencia de recursos",
+		"department": "Ica",
+		"link": "https://ikreo.pe/index.php"
 	},
 	{
 		" ": "64",
-		"Nombre del emprendimiento": "JANKO Eco Bicicletas SAC",
-		"Observaciones": "Janko es una empresa de base tecnológica que fabrica bicicletas sostenibles de bambú peruano personalizables en diseño",
-		"Descripción del emprendimiento": " color de uniones",
-		"Rubro": " resistencia",
-		"Ubicación": " grabado y acabado de caña. ",
-		"link": "Eficiencia de recursos"
+		"name": "JANKO Eco Bicicletas SAC",
+		"description": "Janko es una empresa de base tecnológica que fabrica bicicletas sostenibles de bambú peruano personalizables en diseño color de uniones resistencia grabado y acabado de caña.",
+		"item": "Eficiencia de recursos",
+		"department": "Lima",
+		"link": "https://www.facebook.com/JankoEcobicis/"
 	},
 	{
 		" ": "65",
-		"Nombre del emprendimiento": "JUAN LAURA - The Chocolate Farmer",
-		"Observaciones": "Chocolates oscuros con cacao nativo del VRAEM",
-		"Descripción del emprendimiento": "Alimentación",
-		"Rubro": "Cusco",
-		"Ubicación": "Carmen Vila Durand",
-		"link": ""
+		"name": "JUAN LAURA - The Chocolate Farmer",
+		"description": "Chocolates oscuros con cacao nativo del VRAEM",
+		"item": "Alimentación",
+		"department": "Cusco",
+		"link": "https://www.facebook.com/TheChocolateFarmer/"
 	},
 	{
 		" ": "77",
-		"Nombre del emprendimiento": "Misha Rastrera",
-		"Observaciones": "",
-		"Descripción del emprendimiento": "Cosmética/bienestar",
-		"Rubro": "Lima",
-		"Ubicación": "Paloma Duarte",
+		"name": "Misha Rastrera",
+		"description": "",
+		"item": "Cosmética/bienestar",
+		"department": "Lima",
 		"link": "https://www.misharastrera.com/"
 	},
 	{
 		" ": "78",
-		"Nombre del emprendimiento": "Munay Productos Naturales SAC",
-		"Observaciones": "Empacamos",
-		"Descripción del emprendimiento": " transformamos y comercializamos alimentos nacionales y organicos. Poniendo en valor la biodiversidad Peruana. Nuestros productos sin totalmente integrales",
-		"Rubro": " ko usamos insumos refinados",
-		"Ubicación": " preservantes ni aditivos.",
-		"link": "Alimentación"
+		"name": "Munay Productos Naturales SAC",
+		"description": "Empacamos transformamos y comercializamos alimentos nacionales y organicos. Poniendo en valor la biodiversidad Peruana. Nuestros productos sin totalmente integrales ko usamos insumos refinados preservantes ni aditivos.",
+		"item": "Alimentación",
+		"department": "Cusco",
+		"link": "http://www.munayperu.com/"
 	},
 	{
 		" ": "79",
-		"Nombre del emprendimiento": "Nassf Travel",
-		"Observaciones": "Somos una agencia de viajes especializada en turismo sostenible dirigida a personas que gusten de viajes sostenibles con responsabilidad social y ambiental.",
-		"Descripción del emprendimiento": "Ecoturismo",
-		"Rubro": "Lima",
-		"Ubicación": "Liccet Suarez Amapanqui",
+		"name": "Nassf Travel",
+		"description": "Somos una agencia de viajes especializada en turismo sostenible dirigida a personas que gusten de viajes sostenibles con responsabilidad social y ambiental.",
+		"item": "Ecoturismo",
+		"department": "Lima",
 		"link": "https://nassftravel.com/"
 	},
 	{
 		" ": "88",
-		"Nombre del emprendimiento": "Olmos Carbon SAC",
-		"Observaciones": "Producción y comercialización sostenible de carbon vegetal y briquetas certificado FSC ",
-		"Descripción del emprendimiento": " con los desechos de la industria forestal ",
-		"Rubro": "mediante pirólisis de la madera ",
-		"Ubicación": " reduciendo el impacto.",
-		"link": "Eficiencia de recursos"
+		"name": "Olmos Carbon SAC",
+		"description": "Producción y comercialización sostenible de carbon vegetal y briquetas certificado FSC con los desechos de la industria forestal mediante pirólisis de la madera reduciendo el impacto.",
+		"item": "Eficiencia de recursos",
+		"department": "Lima",
+		"link": "https://www.olmoscarbon.com/"
 	},
 	{
 		" ": "99",
-		"Nombre del emprendimiento": "Qaya Cuero de pescado peruano",
-		"Observaciones": "Qaya es una empresa socio-ambiental que produce productos con cuero de pescado curtido con curtientes vegetales. Las pieles que usa son residuos de la pesca artesanal y subproductos de la acuicultura.",
-		"Descripción del emprendimiento": "Moda sostenible",
-		"Rubro": "Lima",
-		"Ubicación": "Keyla Polo Cespedes ",
+		"name": "Qaya Cuero de pescado peruano",
+		"description": "Qaya es una empresa socio-ambiental que produce productos con cuero de pescado curtido con curtientes vegetales. Las pieles que usa son residuos de la pesca artesanal y subproductos de la acuicultura.",
+		"item": "Moda sostenible",
+		"department": "Lima",
 		"link": "https://www.yooying.com/qayacuerodepescadoperuano"
 	},
 	{
 		" ": "103",
-		"Nombre del emprendimiento": "RECUSCO",
-		"Observaciones": " Busca reciclar plásticos PET en el circuito turístico del Cusco con el fin de reducir el impacto ambiental en base al principio de sostenibilidad",
-		"Descripción del emprendimiento": "Eficiencia de recursos",
-		"Rubro": "Cusco",
-		"Ubicación": "Asociación Civil Turismo Cuida",
+		"name": "RECUSCO",
+		"description": " Busca reciclar plásticos PET en el circuito turístico del Cusco con el fin de reducir el impacto ambiental en base al principio de sostenibilidad",
+		"item": "Eficiencia de recursos",
+		"department": "Cusco",
 		"link": "https://www.facebook.com/pages/category/Local-Business/RECuscO-205324106218535/"
 	},
 	{
 		" ": "107",
-		"Nombre del emprendimiento": "RUNAQ",
-		"Observaciones": "Empresa dedicada a la producción de alimentos y productos agrícolas basados en el acompañamiento de los agricultores mejorando la calidad en los procesos",
-		"Descripción del emprendimiento": " con respeto al ambiente",
-		"Rubro": " a la organización social y la cultura.",
-		"Ubicación": "Alimentación",
-		"link": "Lima"
+		"name": "RUNAQ",
+		"description": "Empresa dedicada a la producción de alimentos y productos agrícolas basados en el acompañamiento de los agricultores mejorando la calidad en los procesos con respeto al ambiente a la organización social y la cultura.",
+		"item": "Alimentación",
+		"department": "Lima",
+		"link": "https://runaq.com.pe/"
 	},
 	{
 		" ": "110",
-		"Nombre del emprendimiento": "SASHA NATURA SAC",
-		"Observaciones": "Envases",
-		"Descripción del emprendimiento": " platos",
-		"Rubro": " vasos",
-		"Ubicación": " utensilios biodegradables",
-		"link": "Servicios"
+		"name": "SASHA NATURA SAC",
+		"description": "Envases platos, vasos, utensilios biodegradables",
+		"item": "Servicios",
+		"department": "Huánuco",
+		"link": "https://www.facebook.com/sashanaturaperu/"
 	},
 	{
 		" ": "112",
-		"Nombre del emprendimiento": "Shiwi",
-		"Observaciones": "Empresa peruana dedicada al comercio de alimentos y cosméticos de áreas protegidas.",
-		"Descripción del emprendimiento": "Alimentación",
-		"Rubro": "Lima",
-		"Ubicación": "Oriane Brunet",
-		"link": ""
+		"name": "Shiwi",
+		"description": "Empresa peruana dedicada al comercio de alimentos y cosméticos de áreas protegidas.",
+		"item": "Alimentación",
+		"department": "Lima",
+		"link": "https://shiwi.pe/"
 	},
 	{
 		" ": "113",
-		"Nombre del emprendimiento": "Sinba",
-		"Observaciones": " ",
-		"Descripción del emprendimiento": "Eficiencia de recursos",
-		"Rubro": "Lima",
-		"Ubicación": "Philip Reiser"
-	},
-	{
-		" ": "Juan Alberto Wu"
-	},
-	{
-		" ": "Andrea Rivera",
-		"Nombre del emprendimiento": ""
+		"name": "Sinba",
+		"description": " ",
+		"item": "Eficiencia de recursos",
+		"department": "Lima",
+		"link": "http://sinba.pe/"
 	},
 	{
 		" ": "118",
-		"Nombre del emprendimiento": "Ulcumano Ecolodge",
-		"Observaciones": "Proyecto de conservación de bosques de neblina en Oxapampa mediante el ecoturismo",
-		"Descripción del emprendimiento": "Servicios",
-		"Rubro": "Pasco",
-		"Ubicación": "Eduardo De la cadena",
-		"link": ""
-	},
-	{
-		" ": ""
+		"name": "Ulcumano Ecolodge",
+		"description": "Proyecto de conservación de bosques de neblina en Oxapampa mediante el ecoturismo",
+		"item": "Servicios",
+		"department": "Pasco",
+		"link": "https://www.ulcumanoecolodge.com/"
 	}
 ]
